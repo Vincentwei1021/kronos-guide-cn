@@ -8,7 +8,7 @@
 [![HuggingFace](https://img.shields.io/badge/🤗-Models-yellow.svg)](https://huggingface.co/NeoQuasar)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/shiyu-coder/Kronos/blob/master/LICENSE)
 
-> **全网首份中文实战指南** | 原始项目：[GitHub (15.6k⭐)](https://github.com/shiyu-coder/Kronos) | 论文：[arXiv 2508.02739](https://arxiv.org/abs/2508.02739) | [Live Demo](https://shiyu-coder.github.io/Kronos-demo/)
+> **全网首份中文实战指南** | 原始项目：[GitHub ![Stars](https://img.shields.io/github/stars/shiyu-coder/Kronos?style=social)](https://github.com/shiyu-coder/Kronos) | 论文：[arXiv 2508.02739](https://arxiv.org/abs/2508.02739) | [Live Demo](https://shiyu-coder.github.io/Kronos-demo/)
 
 ---
 
