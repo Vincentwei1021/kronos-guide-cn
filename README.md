@@ -760,6 +760,15 @@ predictor = KronosPredictor(model, tokenizer, max_context=512)
 
 ---
 
+## 🔗 更多中文 AI 实战指南
+
+| 项目 | 简介 |
+|------|------|
+| [🤖 AI Agent 框架选型指南](https://github.com/Vincentwei1021/awesome-ai-agent-frameworks) | Scion/AutoGen/CrewAI/LangGraph 深度对比 + 选型决策树 |
+| [🚀 MegaTrain 中文实战指南](https://github.com/Vincentwei1021/megatrain-guide-cn) | 单 GPU 训练 100B+ 大模型 · 硬件选购 · 性能对比 |
+
+---
+
 ## 📄 许可证
 
 本指南采用 [MIT License](LICENSE) 开源。Kronos 原始代码采用 [Apache 2.0 License](https://github.com/shiyu-coder/Kronos/blob/master/LICENSE)。
